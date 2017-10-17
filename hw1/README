@@ -1,0 +1,16 @@
+CS6350 BIG DATA ANALYTICS AND MANAGEMENT
+HOMEWORK 1
+Name: Rammurthy Mudimadugula
+UTID: rxm163730
+
+Execution Instructions:
+
+1) hadoop jar CommonFriends.jar CommonFriends <input> <output> <user1> <user2>
+
+2) hadoop jar CommonFriends.jar CommonFriends <input> <output>
+
+3) hadoop jar ToptenBiz.jar ToptenBiz <review.csv <business.csv> <intermediate_output> <output>
+
+4) hadoop jar PaloAlto.jar PaloAlto <review.csv <business.csv> <output>
+
+PS: Relevent files (jar, source code and output) for each question are in appropriate folders.
